@@ -10,7 +10,7 @@
 
 My aim is develope my skills and find out something new every day. I want to be the best developer and I work at it every day.  
 
-I am very hardworking, assiduous, sociable, curious. I like sport very much: hockey soccer. Also I like nature.  
+I am very hardworking, assiduous, sociable, curious. I like sport very much: hockey and soccer. Also I like nature.  
 
 Every day I read books by programming languages and technologicals. Also I make up layouts. Every day I spend many time for learning and watching conferences by technologicals for frontend development.  
 
@@ -21,7 +21,7 @@ Every day I read books by programming languages and technologicals. Also I make 
 4. IDE: VS code, Visual Studio, Sublime Text, PyCharm;
 5. Another: SQL, UML;
 
-## Code examples:
+## Code example:
 
 __Javascript__:  
 ```
@@ -42,4 +42,16 @@ function count (string) {
       return obj;
 }
 ```
+
+## My experience
+
+Will be completed
+
+## My education:
+1. Minsk State ArchitecturalL And Construction College. Specialty: Industry and Civil building.
+2. Belarusian National Technical University. Building Faculty. Economic and organization building industry.
+3. Belarusian State University of Informatics and Radioelectronics. Speciality engeneer developer.
+
+## English skills:
+My English level is B1. I read english books, articles, magazines, watch movies and listen to audiobooks.
 
