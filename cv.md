@@ -20,3 +20,26 @@ Every day I read books by programming languages and technologicals. Also I make 
 3. Frameworks: WPF, Django(little bit);
 4. IDE: VS code, Visual Studio, Sublime Text, PyCharm;
 5. Another: SQL, UML;
+
+## Code examples:
+
+__Javascript__:  
+```
+function count (string) {  
+  let obj = {};
+      let arr = string.split(' ').join('').split('');
+
+      if (string.length === 0) return {};
+
+      for (let value of arr) {
+        if (value in obj) {
+          obj[value]++;
+        } else {
+          obj[value] = 1;
+        }
+      }
+
+      return obj;
+}
+```
+
