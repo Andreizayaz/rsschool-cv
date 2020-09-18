@@ -1,33 +1,36 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap");
 
-*{
-	margin:0;
-	padding:0;
-	list-style: none;	
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
 	font-family: Roboto, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.2;
 }
 
-body{
-	width:80%;
+body {
+	width: 80%;
 	margin: 0 auto;
 }
 
-header{
-	background-color: #87CFFF;
+header {
+	background-color: #87cfff;
 }
 
-.common-info{
-	display:flex;
-	flex-flow:row wrap;
+.common-info {
+	display: flex;
+	flex-flow: row wrap;
 	justify-content: space-between;
 }
 
-
-h1{
+h1 {
 	font-size: 3rem;
 	text-align: center;
-	width:80%;
-	padding:70px 0;
+	width: 80%;
+	padding: 70px 0;
+}
+
+main {
+	background-color: rgba(211,211,211,.4);
 }
