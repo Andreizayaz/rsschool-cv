@@ -8,11 +8,11 @@
 	line-height: 1.2;
 }
 
-ul li{	
+ul li {
 	list-style: none;
 }
 
-ol li{
+ol li {
 	list-style-position: inside;
 }
 
@@ -26,7 +26,8 @@ footer {
 	background-color: #87cfff;
 }
 
-.common-info {
+.common-info,
+.contacts {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
@@ -47,21 +48,43 @@ h1 {
 	padding: 70px 0;
 }
 
-h2{
+h2 {
 	font-size: 2rem;
 	padding: 30px 0 10px 20px;
-	border-bottom: 2px solid rgba(0,0,0,.5);
+	border-bottom: 2px solid rgba(0, 0, 0, 0.5);
 }
 
-li, p{
+h3 {
+	font-size: 1.75rem;
+	padding: 20px;
+}
+
+li,
+p {
 	font-size: 1rem;
 	padding: 10px 20px;
 }
 
-p{
+p {
 	line-height: 1.65;
 }
 
 main {
 	background-color: rgba(211, 211, 211, 0.4);
+}
+
+.english-skills{
+	padding-bottom: 35px;
+}
+.contact-section {
+	padding: 20px 0;
+}
+
+.contacts li {
+	width: 20%;
+}
+
+.contacts li:hover {
+	cursor: pointer;
+	color: #ffffe0;
 }
